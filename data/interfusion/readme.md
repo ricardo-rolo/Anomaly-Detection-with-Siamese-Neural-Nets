@@ -1,1 +1,0 @@
-Extracted from [InterFusion project repo](https://github.com/zhhlee/InterFusion)
